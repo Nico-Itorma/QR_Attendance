@@ -1,7 +1,7 @@
 package com.nicanoritorma.qrattendance;
-
-import android.os.Environment;
-import android.util.Log;
+/**
+ * Created by Nicanor Itorma
+ */
 import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.Toast;

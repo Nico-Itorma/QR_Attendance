@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.ClickedAttendanceRoom;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.content.Context;
 import android.os.AsyncTask;
 

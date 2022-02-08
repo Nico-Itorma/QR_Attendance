@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.api;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,11 +1,12 @@
 package com.nicanoritorma.qrattendance;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import androidx.appcompat.app.ActionBar;
 
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -17,7 +18,6 @@ import com.google.zxing.common.BitMatrix;
 import com.google.zxing.qrcode.QRCodeWriter;
 import com.nicanoritorma.qrattendance.model.QrModel;
 import com.nicanoritorma.qrattendance.OfflineViewModels.QrViewModel;
-import com.nicanoritorma.qrattendance.utils.Connectivity;
 import com.nicanoritorma.qrattendance.utils.EncryptorAndDecryptor;
 
 import java.io.ByteArrayOutputStream;

@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.utils;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;

@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.utils;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.Writer;

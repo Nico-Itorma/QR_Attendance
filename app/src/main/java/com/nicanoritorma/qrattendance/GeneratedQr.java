@@ -1,6 +1,7 @@
 package com.nicanoritorma.qrattendance;
-
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.content.ContentResolver;
 import android.content.ContentValues;
 import android.graphics.Bitmap;
@@ -32,9 +33,7 @@ import com.nicanoritorma.qrattendance.utils.EncryptorAndDecryptor;
 import com.nicanoritorma.qrattendance.utils.RecyclerViewItemClickSupport;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;

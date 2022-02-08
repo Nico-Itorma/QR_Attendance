@@ -1,21 +1,17 @@
 package com.nicanoritorma.qrattendance.ClickedAttendanceRoom;
-
-import android.database.Cursor;
+/**
+ * Created by Nicanor Itorma
+ */
 
 import androidx.lifecycle.LiveData;
-import androidx.lifecycle.MutableLiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
-import androidx.room.RawQuery;
 import androidx.room.Update;
-import androidx.sqlite.db.SupportSQLiteQuery;
 
-import com.nicanoritorma.qrattendance.model.AttendanceModel;
 import com.nicanoritorma.qrattendance.model.StudentInAttendanceModel;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Dao

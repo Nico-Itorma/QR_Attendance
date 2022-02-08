@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.ui.adapter;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.graphics.BitmapFactory;
 import android.util.SparseBooleanArray;
 import android.view.LayoutInflater;

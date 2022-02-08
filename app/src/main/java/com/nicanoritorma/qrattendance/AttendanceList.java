@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import androidx.appcompat.app.ActionBar;
 import androidx.lifecycle.Observer;
 import androidx.recyclerview.widget.LinearLayoutManager;

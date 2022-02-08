@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.api;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.content.Context;
 
 import com.android.volley.RequestQueue;

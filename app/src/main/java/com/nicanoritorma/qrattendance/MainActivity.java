@@ -1,43 +1,21 @@
 package com.nicanoritorma.qrattendance;
-
-import static android.Manifest.permission.MANAGE_EXTERNAL_STORAGE;
+/**
+ * Created by Nicanor Itorma
+ */
 import static android.Manifest.permission.WRITE_EXTERNAL_STORAGE;
-
-import android.Manifest;
 import android.animation.LayoutTransition;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.transition.AutoTransition;
 import android.transition.TransitionManager;
 import android.util.Log;
 import android.view.View;
-import android.widget.FrameLayout;
 import android.widget.GridLayout;
-import android.widget.LinearLayout;
-import android.widget.ProgressBar;
-import android.widget.Toast;
-
 import androidx.annotation.NonNull;
-import androidx.cardview.widget.CardView;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-import org.xml.sax.XMLReader;
-
-import java.io.BufferedInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
-
-import javax.xml.parsers.SAXParser;
-import javax.xml.parsers.SAXParserFactory;
-/**
-    @author Nicanor Itorma
- */
 public class MainActivity extends BaseActivity {
 
     private GridLayout drop_down;

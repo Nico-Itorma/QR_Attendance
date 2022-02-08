@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.OfflineViewModels;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.app.Application;
 
 import androidx.annotation.NonNull;

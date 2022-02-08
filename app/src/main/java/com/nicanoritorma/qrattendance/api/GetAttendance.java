@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.api;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import static com.nicanoritorma.qrattendance.BaseActivity.getDbUrl;
 
 import android.app.Application;

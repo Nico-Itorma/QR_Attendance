@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.StudentRoom;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;

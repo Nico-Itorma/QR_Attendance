@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.OfflineRepository;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.app.Application;
 
 import androidx.lifecycle.LiveData;

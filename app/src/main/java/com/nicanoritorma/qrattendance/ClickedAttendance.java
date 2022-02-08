@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.fragment.app.DialogFragment;

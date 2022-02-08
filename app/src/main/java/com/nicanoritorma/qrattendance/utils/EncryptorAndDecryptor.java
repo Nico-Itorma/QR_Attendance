@@ -1,5 +1,7 @@
 package com.nicanoritorma.qrattendance.utils;
-
+/**
+ * Created by Nicanor Itorma
+ */
 import android.util.Log;
 import android.widget.Toast;
 
